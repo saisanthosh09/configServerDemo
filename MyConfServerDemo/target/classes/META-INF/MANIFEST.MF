@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: MyClientConfServerDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Saisanthosh.Sannerap
+Implementation-Vendor-Id: demo.conf.server
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/MyClientConf
+ ServerDemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
